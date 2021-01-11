@@ -1,8 +1,8 @@
-# _{Resort Website}_
+# Resort Website
 
-#### _{This is for a tropical website}_
+#### This is for a tropical website
 
-#### By _**{Sean Meininger and Jay Carr}**_
+#### By Sean Meininger and Jay Carr
 
 ## Technologies Used
 
@@ -12,15 +12,15 @@
 
 ## Description
 
-_{This website was created for the purpsose of making money}_
+This website was created for the purpsose of making money
 
 ## Setup/Installation Requirements
 
 * Open web browser
 * Navigate to https://jaycarrr.github.io/resort-website/
-* Profit
+* Profit :money_mouth_face:
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.
 
 ## Known Bugs
 
@@ -28,8 +28,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{MIT}_
+MIT
 
 ## Contact Information
 
-_Sean and Jay 555-555-5559_
+Sean and Jay 555-555-5559
